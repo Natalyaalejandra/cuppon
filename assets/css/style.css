@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/*navbar*/
+
+.navbar-toggler, .navbar-light, .navbar-toggler-icon { /*???*/
+  border-color: #ffffff;
+}
+
+@media (max-width: 576px) {
+  .mi-h2 {
+    font-size: 1.5rem;
+    color: black;
+  }
+}
+
+
+
+/*card section*/
+
+.card-tittle {
+  font-weight: 300;
+  color: #212529;
+}
+
+.card-text, .text-muted, .footer {
+  color: #707070;
+}
+
+.text.success {
+  color: #28A745;
+}
+
+/*form*/
+.form h2 {
+  font-weight: 500;
+}
+
+.btn {
+  color: #212529;
+  font-weight: 500;
+}
